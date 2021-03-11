@@ -4,7 +4,7 @@ Employees profile backend is built using express server, mongoDB atlas is used t
 
 ## Getting Started
 
-- [Check the frontend app of the employee page](https://github.com/ialtafshaikh/trainee-profile-pages.git)
+- [Check the frontend app of the employee page](https://github.com/altafshaikh/react-trainee-profile-pages)
 - [Check the employee profile backend code](https://github.com/altafshaikh/nodejs-trainee-profile-backend)
 
 ## Features
