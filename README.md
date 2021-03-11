@@ -5,7 +5,7 @@ Employees profile backend is built using express server, mongoDB atlas is used t
 ## Getting Started
 
 - [Check the frontend app of the employee page](https://github.com/ialtafshaikh/trainee-profile-pages.git)
-- [Check the employee profile backend code](https://github.com/ialtafshaikh/trainee-profile-backend.git)
+- [Check the employee profile backend code](https://github.com/altafshaikh/nodejs-trainee-profile-backend)
 
 ## Features
 
@@ -25,8 +25,7 @@ Employees profile backend is built using express server, mongoDB atlas is used t
 
 ```
 
-https://github.com/ialtafshaikh/trainee-profile-backend.git
-
+git clone https://github.com/altafshaikh/nodejs-trainee-profile-backend.git
 ```
 
 2. add a `.env` file inside the root folder
@@ -85,9 +84,6 @@ Note:
 
 ```
 
-## Live Demo of this Project
-
-[hosted backend](https://trainee-profile-backend.herokuapp.com/employees/addEmployee)
 
 ## References
 
